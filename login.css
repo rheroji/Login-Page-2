@@ -1,0 +1,46 @@
+img 
+{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+body
+{
+    background:url('https://i.pinimg.com/564x/88/8d/fb/888dfb6876c7234790034e7ef5c2049c.jpg');
+    background-size: cover;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    color:hotpink;
+    
+}
+a
+{
+    color: hotpink;
+}
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+header
+{
+    position: fixed;
+    width: 100%;
+    background-color: transparent;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    padding: 20px 100px;
+    
+}
+h1
+{
+    color:hotpink;
+    font-size:100px;
+}
+.ref a
+{
+    color:hotpink;
+    font-size: 20px;
+    padding: 20px;
+}
